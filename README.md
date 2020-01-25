@@ -27,7 +27,7 @@ The Following Project Is A GUI Based Scapegoat Tree Visualizer that contains two
 [9,8,5,4,1,3,2,6,7,10]
 ```
 ## ScreenShots Of the Project:
-![Screenshot](screenshot)
+![ScreenShot1](https://github.com/monisj/ScapeGoat-Tree-Visualization/blob/master/screenshots/Capture1.PNG)
 # Project Contributors
 * Muhammed Monis Jawed (18b-036-SE)
 * Syed Umer Zahid (18b-097-SE)
