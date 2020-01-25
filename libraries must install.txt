@@ -1,0 +1,5 @@
+pip install igraph
+pip install plotly(if not detected)
+pip install anytree
+pip install graphviz(Use the installer provided do not use pip unless not installing)
+pip install wxpython
