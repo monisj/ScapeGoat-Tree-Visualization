@@ -31,7 +31,7 @@ The Following Project Is A GUI Based Scapegoat Tree Visualizer that contains two
 This ScreenShot is the Home Page of Our Project
 
 ![ScreenShot2](https://github.com/monisj/ScapeGoat-Tree-Visualization/blob/master/screenshots/Capture2.PNG)
-This Screenshot Is an Example Of a Normal UnBalanced Tree
+This ScreenShot Is an Example Of a Normal UnBalanced Tree
 
 ![ScreenShot3](https://github.com/monisj/ScapeGoat-Tree-Visualization/blob/master/screenshots/Capture3.PNG)
 This ScreenShot Is an Example Of a ScapeGoat Tree
