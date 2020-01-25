@@ -28,6 +28,21 @@ The Following Project Is A GUI Based Scapegoat Tree Visualizer that contains two
 ```
 ## ScreenShots Of the Project:
 ![ScreenShot1](https://github.com/monisj/ScapeGoat-Tree-Visualization/blob/master/screenshots/Capture1.PNG)
+This ScreenShot is the Home Page of Our Project
+
+![ScreenShot2](https://github.com/monisj/ScapeGoat-Tree-Visualization/blob/master/screenshots/Capture2.PNG)
+This Screenshot Is an Example Of a Normal UnBalanced Tree
+
+![ScreenShot3](https://github.com/monisj/ScapeGoat-Tree-Visualization/blob/master/screenshots/Capture3.PNG)
+This ScreenShot Is an Example Of a ScapeGoat Tree
+
+![ScreenShot4](https://github.com/monisj/ScapeGoat-Tree-Visualization/blob/master/screenshots/Capture5.PNG)
+This ScreenShot is the tree creation GUI
+
+![ScreenShot5](https://github.com/monisj/ScapeGoat-Tree-Visualization/blob/master/screenshots/Capture4.PNG)
+This ScreenSHot is the Created ScapeGoat Tree
+
+
 # Project Contributors
 * Muhammed Monis Jawed (18b-036-SE)
 * Syed Umer Zahid (18b-097-SE)
