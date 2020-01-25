@@ -40,7 +40,7 @@ This ScreenShot Is an Example Of a ScapeGoat Tree
 This ScreenShot is the tree creation GUI
 
 ![ScreenShot5](https://github.com/monisj/ScapeGoat-Tree-Visualization/blob/master/screenshots/Capture4.PNG)
-This ScreenSHot is the Created ScapeGoat Tree
+This ScreenShot is the Created ScapeGoat Tree
 
 
 # Project Contributors
